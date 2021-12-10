@@ -4,6 +4,6 @@
 
 ## 派蒙
 
-![paimon](..\assets\paimon.png)
+![paimon](https://raw.githubusercontent.com/OlaWod/history-of-teyvat/main/docs/source/assets/paimon.png)
 
 应急食品
