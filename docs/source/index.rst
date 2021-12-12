@@ -56,4 +56,18 @@
    reference/weapons
    reference/weapon-ascension-materials
    reference/artifacts
+   reference/items
+   reference/books/mondstadt/古恩希尔德小传
+   reference/books/mondstadt/古老的考察日志
+   reference/books/mondstadt/列王与宗室史
+   reference/books/mondstadt/林间风
+   reference/books/mondstadt/蒙德高塔
+   reference/books/mondstadt/蒲公英海的狐狸
+   reference/books/mondstadt/犬又二分之一
+   reference/books/mondstadt/山与海之书
+   reference/books/mondstadt/侍从骑士之歌
+   reference/books/mondstadt/温妮莎传奇
+   reference/books/mondstadt/野猪公主
+   reference/books/mondstadt/与神性同行
+   reference/books/mondstadt/醉客轶事
    
