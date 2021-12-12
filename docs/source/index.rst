@@ -70,4 +70,12 @@
    reference/books/mondstadt/野猪公主
    reference/books/mondstadt/与神性同行
    reference/books/mondstadt/醉客轶事
+   reference/books/liyue/浮浪记
+   reference/books/liyue/护法仙众夜叉录
+   reference/books/liyue/玑衡经
+   reference/books/liyue/绝云记闻
+   reference/books/liyue/璃月风土志
+   reference/books/liyue/冒险家罗尔德的日志
+   reference/books/liyue/石书辑录
+   reference/books/liyue/侠客记
    
